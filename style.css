@@ -1,0 +1,56 @@
+body {
+    background-color: #5e60ce;
+}
+
+.name {
+    font-family: fantasy;
+    text-decoration:none;
+    font-size: x-large;
+    color: black;
+}
+
+.description {
+    font-family:'Source Code Pro', monospace;
+}
+
+.ability-1 {
+    font-size:x-large;
+}
+
+.ability-2 {
+    font-size:medium
+}
+
+.ability-3 {
+    font-size: larger;
+}
+
+.ability-4 {
+    font-size: small;
+}
+
+.odd {
+    color: white;
+}
+
+div.name-perfil {
+    text-align: center;
+}
+
+div.photo-perfil {
+    width: 30%;
+    display:inline-block;
+    padding: 2em 20px;
+    text-align: center;
+    background-color: #5390d9;
+    float: left;
+}
+
+div.description-perfil {
+    width: 60%;
+    display:inline-block;
+    margin-bottom: 50%;
+    padding: 2em 20px;
+    text-align:justify;
+    float: right;
+   }
