@@ -1,32 +1,40 @@
-<style>
+body {
+    background-color:#7400b8;
+}
+
+.name {
+    font-family: fantasy;
+    text-decoration:none;
+}
+
+.description {
+    font-family:'Source Code Pro', monospace;
+}
+
+.ability-1 {
+    font-size:x-large;
+}
+
+.ability-2 {
+    font-size:medium
+}
+
+.ability-3 {
+    font-size: larger;
+}
+
+.ability-4 {
+    font-size: x-small;
+}
+
+.name-perfil {
+    text-align: center;
+}
+
+.photo-perfil {
+
+}
+
+.description-perfil {
     
-    body {
-        background-color:#7400b8;
-    }
-
-    .name {
-        font-family: fantasy;
-        text-decoration:none;
-    }
-
-    .description {
-        font-family:'Source Code Pro', monospace;
-    }
-
-    .ability-1 {
-        font-size:x-large;
-    }
-
-    .ability-2 {
-        font-size:medium
-    }
-
-    .ability-3 {
-        font-size: larger;
-    }
-
-    .ability-4 {
-        font-size: x-small;
-    }
-
-    </style>
+}
